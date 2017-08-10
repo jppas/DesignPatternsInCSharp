@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DotNetDesignPatternDemos.SOLID.InterfaceSegregationPrinciple
+namespace InterfaceSegregationPrinciple
 {
   public class Document
   {
